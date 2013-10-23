@@ -28,7 +28,7 @@ Czas wykonania: 0.292558
 Matrix[400][400];
 Czas wykonania: 1.453480
 
-<u>Wniosek:</u> Program sekwencyjny wykonuje się szybciej niż program w OpenMP.
+<b>Wniosek:</b> Program sekwencyjny wykonuje się szybciej niż program w OpenMP.
 
 
 <h1><b>Mnożenie wektorów</b></h1>
@@ -53,7 +53,7 @@ Czas wykonania: 0.005732
 
 Czas wykonania: 0.000060; 0.000036; 0.000089
 
-<u>Wniosek:</u> Program MPI który działa na wielu procesorach, jest wolniejszy od programu sekwencyjnego.
+<b>Wniosek:</b> Program MPI który działa na wielu procesorach, jest wolniejszy od programu sekwencyjnego.
 
 
 <h1><b>Macierz</b></h1>
@@ -99,4 +99,4 @@ Czas wykonania: 0.000035
 Macierz[12][12];
 Czas wykonania: 0.000073
 
-<u>Wniosek:</u> Program sekwencyjny jest szybszy od MPI.
+<b>Wniosek:</b> Program sekwencyjny jest szybszy od MPI.
